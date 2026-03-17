@@ -1,0 +1,6 @@
+tools:
+  file_tools:
+    enabled: true
+
+  terminal_tools:
+    enabled: true

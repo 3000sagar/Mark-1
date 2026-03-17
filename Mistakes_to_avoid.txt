@@ -1,0 +1,27 @@
+The Biggest Mistake You Must Avoid
+
+Most AI agent builders do this:
+
+design system
+design planner
+design memory
+design agents
+design tools
+
+Before writing a single working runtime.
+
+Then they burn out.
+
+The correct order is:
+
+1 runtime
+2 logging
+3 tools
+4 security
+5 task manager
+6 model
+7 planner
+8 executor
+9 memory
+
+Exactly the order we discussed earlier.

@@ -1,0 +1,10 @@
+system:
+  name: MARK-1
+  version: 0.1
+
+runtime:
+  max_iterations: 20
+  workspace: workspace/
+
+logging:
+  level: INFO
